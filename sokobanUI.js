@@ -696,5 +696,5 @@
           };
       })(UIAdapter, StorageAdapter, LevelRepository, GameModel);
 
-      // Démarrer l'application quand le DOM est chargé
+    
       document.addEventListener('DOMContentLoaded', SokobanApp.init);
