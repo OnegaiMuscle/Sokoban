@@ -696,5 +696,6 @@
           };
       })(UIAdapter, StorageAdapter, LevelRepository, GameModel);
 
-    
+
+      
       document.addEventListener('DOMContentLoaded', SokobanApp.init);
