@@ -698,4 +698,5 @@
 
 
 
+      
       document.addEventListener('DOMContentLoaded', SokobanApp.init);
